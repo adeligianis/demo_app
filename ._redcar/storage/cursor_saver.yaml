@@ -1,6 +1,32 @@
 --- 
 cursor_positions: 
+  - :path: .git/COMMIT_EDITMSG
+    :cursor_offset: 0
+    :timestamp: 2012-03-16 14:16:37.449000 -04:00
+  - :path: app/helpers/application_helper.rb
+    :cursor_offset: 0
+    :timestamp: 2012-03-16 13:59:52.998000 -04:00
+  - :path: app/controllers/application_controller.rb
+    :cursor_offset: 0
+    :timestamp: 2012-03-16 13:59:52.996000 -04:00
+  - :path: app/views/microposts/index.html.erb
+    :cursor_offset: 573
+    :timestamp: 2012-03-16 14:45:33.685000 -04:00
+  - :path: app/views/users/index.html.erb
+    :cursor_offset: 485
+    :timestamp: 2012-03-16 14:45:19.049000 -04:00
+    :selection_offset: 529
+    :block_selection_mode: false
+  - :path: app/controllers/users_controller.rb
+    :cursor_offset: 1854
+    :timestamp: 2012-03-16 14:17:51.922000 -04:00
+  - :path: app/controllers/microposts_controller.rb
+    :cursor_offset: 1514
+    :timestamp: 2012-03-16 14:42:34.779000 -04:00
   - :path: Gemfile
-    :cursor_offset: 191
-    :timestamp: 2012-03-16 14:10:26.163000 -04:00
+    :cursor_offset: 793
+    :timestamp: 2012-03-16 14:15:32.013000 -04:00
+  - :path: config/routes.rb
+    :cursor_offset: 223
+    :timestamp: 2012-03-16 14:42:34.749000 -04:00
 files_to_retain: 0
